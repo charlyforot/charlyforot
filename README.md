@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @charlyforot
+- 👀 I’m interested in software engineering (Python, Java, C/C++), web development, networks and cybersecurity !
+- 📫 You can contact me on LinkedIn : https://www.linkedin.com/in/charly-forot/
