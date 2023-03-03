@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @charlyforot
-- 👀 I’m interested in software engineering (Python, Java, C/C++), web development, networks and cybersecurity !
+- 👨‍💼 Site Reliability Engineer at Infomaniak Network SA (Geneva, Switzerland).
+- 👀 I’m interested in software engineering (Python, Java, C/C++), web development, containerization (Docker), networks and cybersecurity !
 - 📫 You can contact me on LinkedIn : https://www.linkedin.com/in/charly-forot/
